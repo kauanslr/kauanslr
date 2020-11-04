@@ -23,7 +23,7 @@
 # ❤ to Build - Software Engineer & Enthusiast!
 
 
-Hi, I'm Kavan — a **software engineer** at **Brazil** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on softwares, business, games & aviation. ✌💖
+Hi, I'm Kavan — a **software engineer** at **Brazil** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on softwares, business, games & aviation. ✌
 
 <!-- section - intro -->
 
@@ -61,7 +61,7 @@ MySQL . MongoDB . Redis
 
 ## My Absolute Favorites .. 💖
 
-🦄 I love _CODING_
+⎇ I love _CODING_
 
 👨‍💻 I _BUILD_ resilient apps & services
 
