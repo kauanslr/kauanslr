@@ -51,7 +51,7 @@ MySQL . MongoDB . Redis
 
 ## On the job .. 💯
 
-> Software Engineer - [**PicPay**](https://picpay.com/site)  ⭐
+> Tech Leader - [**PicPay**](https://picpay.com/site)  ⭐
 
 
 <!-- section - job details -->
