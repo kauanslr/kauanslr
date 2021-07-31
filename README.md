@@ -69,19 +69,4 @@ MySQL . MongoDB . Redis
 
 <!-- section - interests -->
 
-
-## Thank you! 🙏
-
-Thanks for reading about me. You can connect with me on ..
-
-<!-- section - social media icons -->
-
-[![linkedin kauan-sousa][1.1]][1]
-[![github kauanslr][2.1]][2]
-[![twitter kavan_sousa][3.1]][3]
-
-<!-- section - social media icons -->
-
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=kauanslr.visitor-badge">
- <p/>
+![Snake animation](https://github.com/kauanslr/kauanslr/blob/output/github-contribution-grid-snake.svg)
