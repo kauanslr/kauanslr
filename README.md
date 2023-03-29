@@ -1,71 +1,48 @@
-<!-- Don't remove this --- https://github.com/ombharatiya -->
+## 👋 About Me
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
+Hey there! I'm a senior software engineer at PicPay with over 5 years of experience in the industry. I'm passionate about creating robust, scalable, and efficient solutions that solve complex problems and deliver value to users.
 
-<!-- icons  -->
+## 🏢 Current Position
 
-[1.1]: https://github.com/kauanslr/kauanslr/blob/master/assets/icons/icons8-linkedin-48.png (LinkedIn)
-[2.1]: https://github.com/kauanslr/kauanslr/blob/master/assets/icons/icons8-github-48.png (GitHub)
-[3.1]: https://github.com/kauanslr/kauanslr/blob/master/assets/icons/icons8-twitter-48.png (Twitter)
+- Senior Software Engineer at [**PicPay**](https://picpay.com/empresas)
 
-<!-- links to my social media accounts -->
+## 💻 Skills
 
-[1]: https://www.linkedin.com/in/kauan-sousa/
-[2]: https://www.github.com/kauanslr
-[3]: https://twitter.com/kavan_sousa
+Here are some of the technologies and tools I'm currently working with, familiar with, and enjoy using:
 
+### 🔨 Working with:
 
+- JavaScript/TypeScript
+- PHP
+- Kotlin
+- Node.js
+- REST
+- Docker
+- Messaging
+- Kubernetes
+- SQL
 
+### 🤝 Familiar with:
 
-<!-- section - intro -->
+- Java
+- Python
+- ReactJS
+- VueJS
+- AngularJS
+- Cloudformation
+- Terraform
+- AWS
 
-# ❤ to Build - Software Engineer & Enthusiast!
+### ❤️ Favorite Technologies:
 
+- Laravel
+- Docker
+- MySQL
+- VueJS
 
-Hi, I'm Kavan — a **software engineer** at **Brazil** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on softwares, business, games & aviation. ✌
+## 📞 Contact
 
-<!-- section - intro -->
-
-<!-- section - social media icons -->
-
-[![linkedin kauan-sousa][1.1]][1]
-[![github kauanslr][2.1]][2]
-[![twitter kavan_sousa][3.1]][3]
-
-<!-- section - social media icons -->
-
- ---
-
-<!-- section - skills -->
-
-## I work on .. 💻
-
-PHP . Microservices . Docker . AWS Services
-
-MySQL . MongoDB . Redis
-
-<!-- section - skills -->
-
-<!-- section - job details -->
-
-## On the job .. 💯
-
-> Tech Leader - [**PicPay**](https://picpay.com/site)  ⭐
-
-
-<!-- section - job details -->
-
-
-<!-- section - interests -->
-
-## My Absolute Favorites .. 💖
-
-⎇ I love _CODING_
-
-👨‍💻 I _BUILD_ resilient apps & services
-
-📰 Reading _TECH BLOGS_
+Feel free to connect with me on LinkedIn at [https://www.linkedin.com/in/kauan-sousa](https://www.linkedin.com/in/kauan-sousa)
 
 <!-- section - interests -->
 
