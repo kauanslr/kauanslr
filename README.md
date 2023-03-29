@@ -5,6 +5,7 @@ Hey there! I'm a senior software engineer at PicPay with over 5 years of experie
 ## 🏢 Current Position
 
 - Senior Software Engineer at [**PicPay**](https://picpay.com/empresas)
+- Tech lead at PicPanel Team
 
 ## 💻 Skills
 
